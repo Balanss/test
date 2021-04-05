@@ -1,0 +1,1595 @@
+#body {
+  background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+  position: relative;
+}
+
+#body::before {
+  content: "";
+  background-image: url("images/pred-bg.jpg");
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-size: cover;
+  background-position: top center;
+  opacity: 0.10;
+}
+
+h3 {
+  color: #a6a6a6 !important;
+  font-size: 35px !important;
+  font-family: 'Anton', sans-serif;
+  text-shadow: 2px 2px #000;
+}
+
+h2 {
+  color: #a6a6a6 !important;
+  font-family: 'Chango', cursive !important;
+  margin-top: 100px;
+  padding-bottom: 15px;
+  font-size: 23px !important;
+}
+
+.h1-avp {
+  padding-bottom: 100px;
+  color: #a6a6a6;
+  font-size: 40px;
+  font-family: 'Chango', cursive;
+  text-shadow: 2px 2px #000;
+  margin-top: 100px;
+}
+
+.intro-avp {
+  text-align: center;
+}
+
+.alien1 {
+  width: 55%;
+  border: 5px solid #1b262c;
+  margin-bottom: 10px;
+  position: relative;
+  margin-right: 0;
+}
+
+.a-button {
+  position: relative;
+  padding-bottom: 750px;
+  padding-right: 200px;
+  text-shadow: 2px 2px #000;
+}
+
+.carcon {
+  left: 0;
+  height: 0;
+  top: 50%;
+}
+
+.car-con2 {
+  height: 0;
+  top: 50%;
+  left: 0;
+}
+
+.predator1 {
+  width: 55%;
+  border: 5px solid #1b262c;
+  position: relative;
+}
+
+.alien {
+  width: 65%;
+  border: 5px solid #222222;
+}
+
+.ALIENS {
+  margin-left: 0;
+}
+
+.aliensC {
+  margin-top: 100px;
+  margin-left: 1px !important;
+}
+
+.a-h3 {
+  line-height: 2.5;
+  font-size: 20px;
+  color: #7d7777 !important;
+  font-family: 'Anton', sans-serif;
+  text-shadow: 2px 2px #000;
+}
+
+#more {
+  display: none;
+}
+
+.predC {
+  text-align: left;
+  margin-right: 1px !important;
+  padding-left: 30px !important;
+}
+
+.predator {
+  width: 65%;
+  border: 5px solid #222222;
+  margin-right: 250px;
+}
+
+.p-button {
+  text-shadow: 2px 2px #000;
+  position: relative;
+  left: 200px;
+}
+
+.predH3 {
+  position: relative;
+  right: 0;
+  padding-top: 30px;
+}
+
+.predP {
+  color: #7d7777 !important;
+  font-family: 'Anton', sans-serif;
+  text-shadow: 2px 2px #000;
+  line-height: 2.5;
+}
+
+.avpfight {
+  position: relative;
+}
+
+.targett {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.aliengif {
+  width: 40%;
+  border: 5px solid #555;
+}
+
+.predgif {
+  width: 40%;
+  border: 5px solid #555;
+  bottom: 145px !important;
+  left: 50px;
+}
+
+/* aliens HTML */
+html, #aliens-squad {
+  position: relative;
+  background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+}
+
+#aliens-squad::before {
+  content: "";
+  background-image: url("images/alien-re.jpg");
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-size: cover;
+  background-position: top center;
+  opacity: 0.10;
+}
+
+.alien-size {
+  width: 100%;
+  border: 5px solid #132f41b3;
+}
+
+.ALIEN1-html {
+  margin-top: 75px;
+  padding-right: 200px !important;
+}
+
+.ALIEN3-html {
+  margin-top: 75px;
+  padding-right: 200px !important;
+}
+
+.ALIEN2-html {
+  margin-top: 75px;
+  padding-left: 200px !important;
+}
+
+.ALIEN4-html {
+  margin-top: 75px;
+  padding-left: 200px !important;
+}
+
+.aliengif-page {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 10px;
+  width: 100%
+}
+
+#agif-page {
+  border: 5px solid #03061614;
+}
+
+.alien-h4 {
+  font-family: 'Lato', sans-serif;
+  margin-top: 35px;
+  margin-bottom: 25px;
+  color: #dbedf3 !important;
+  font-size: 30px;
+  text-shadow: 2px 2px #000;
+}
+
+.alienP {
+  font-family: 'Architects Daughter', cursive;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #d0e8f2 !important;
+  text-shadow: 2px 2px #000;
+}
+
+.alien-footer {
+  margin-top: 50px;
+}
+
+/* predators*/
+html, #predator-squad {
+  position: relative;
+  background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+}
+
+#predator-squad::before {
+  content: "";
+  background-image: url("images/pred-re.jpg");
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-size: cover;
+  background-position: 1000px;
+  opacity: 0.10;
+}
+
+#agif-page {
+  border: 5px solid #03061614;
+  width: 100%;
+}
+
+.p-footer {
+  margin-top: 50px;
+}
+
+/*FIGHT*/
+html, #fight-body {
+  background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+  height: 100%;
+  position: relative;
+}
+
+#fight-body::before {
+  content: "";
+  background-image: url("images/pred-bg1.jpg");
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-size: cover;
+  background-position: top center;
+  opacity: 0.10;
+}
+
+.h2-fight {
+  width: 100%;
+  color: #65b1b9;
+  font-size: 40px !important;
+  text-shadow: 2px 2px #000;
+  font-family: 'Anton', sans-serif !important;
+}
+
+.fi-footer {
+  position: fixed !important;
+  bottom: 0;
+}
+
+.avp10 {
+  padding-top: 100px;
+}
+
+@media only screen and (min-width: 601px) {
+  #body {
+    background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+    position: relative;
+  }
+
+  #body::before {
+    content: "";
+    background-image: url("images/pred-bg2.jpg");
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-position: top center;
+    opacity: 0.10;
+  }
+
+  h3 {
+    color: #a6a6a6 !important;
+    font-size: 35px !important;
+    font-family: 'Anton', sans-serif;
+    text-shadow: 2px 2px #000;
+    margin-top: 10px;
+  }
+
+  h2 {
+    color: #a6a6a6 !important;
+    font-family: 'Chango', cursive !important;
+    margin-top: 100px;
+    padding-bottom: 15px;
+    font-size: 40px !important;
+  }
+
+  .h1-avp {
+    padding-bottom: 100px;
+    color: #a6a6a6;
+    font-size: 40px;
+    font-family: 'Chango', cursive;
+    text-shadow: 2px 2px #000;
+    margin-top: 100px;
+  }
+
+  .alien1 {
+    width: 41%;
+    border: 5px solid #1b262c;
+    margin-left: 50px;
+    position: relative;
+    margin-right: 0;
+  }
+
+  .predator1 {
+    margin-bottom: 10px;
+  }
+
+  .a-button {
+    position: relative;
+    padding-bottom: 750px;
+    padding-right: 200px;
+    text-shadow: 2px 2px #000;
+  }
+
+  .carcon {
+    left: 0;
+    height: 0;
+    top: 50%;
+  }
+
+  .car-con2 {
+    height: 0;
+    top: 50%;
+    left: 0;
+  }
+
+  .predatorH2 {
+    margin-top: 50px;
+  }
+
+  .predator1 {
+    width: 45%;
+    border: 5px solid #1b262c;
+    position: relative;
+  }
+
+  .alien {
+    width: 65%;
+    border: 5px solid #222222;
+  }
+
+  .ALIENS {
+    margin-left: 0;
+  }
+
+  .aliensC {
+    margin-top: 100px;
+    margin-left: 1px !important;
+  }
+
+  .a-h3 {
+    line-height: 2.5;
+    font-size: 20px;
+    color: #7d7777 !important;
+    font-family: 'Anton', sans-serif;
+    text-shadow: 2px 2px #000;
+  }
+
+  #more {
+    display: none;
+  }
+
+  .predC {
+    text-align: left;
+    margin-right: 1px !important;
+    padding-left: 30px !important;
+
+  }
+
+  .predator {
+    width: 65%;
+    border: 5px solid #222222;
+    margin-right: 250px;
+  }
+
+  .p-button {
+    text-shadow: 2px 2px #000;
+    position: relative;
+    left: 200px;
+  }
+
+  .predH3 {
+    position: relative;
+    right: 0;
+    padding-top: 30px;
+  }
+
+  .predP {
+
+    color: #7d7777 !important;
+    font-family: 'Anton', sans-serif;
+    text-shadow: 2px 2px #000;
+    line-height: 2.5;
+    font-size: 20px;
+  }
+
+  .targett {
+    margin-top: 300px;
+    text-align: center;
+  }
+
+  .FIGHT {
+    margin-left: 50px;
+  }
+
+  .aliengif {
+    width: 40%;
+    border: 5px solid #555;
+  }
+
+  #refresh {
+    font-size: 40px;
+  }
+
+  .predgif {
+    width: 40%;
+    border: 5px solid #555;
+    bottom: 145px !important;
+    left: 50px;
+  }
+
+  .footer {
+    margin-top: 50px;
+  }
+
+  /* aliens HTML */
+  html, #aliens-squad {
+    position: relative;
+    background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+  }
+
+  #aliens-squad::before {
+    content: "";
+    background-image: url("images/alien-re.jpg");
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-position: top center;
+    opacity: 0.10;
+  }
+
+  .alien-size {
+    border: 5px solid #132f41e3
+  }
+
+  .ALIEN1-html {
+    margin-top: 75px;
+    padding-right: 200px !important;
+  }
+
+  .ALIEN3-html {
+    margin-top: 75px;
+    padding-right: 200px !important;
+  }
+
+  .ALIEN2-html {
+    margin-top: 75px;
+  }
+
+  .ALIEN4-html {
+    margin-top: 75px;
+  }
+
+  .aliengif-page {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+  }
+
+  #agif-page {
+    border: 5px solid #03061614;
+  }
+
+  .alien-h4 {
+    font-family: 'Lato', sans-serif;
+    margin-top: 35px;
+    margin-bottom: 25px;
+    color: #dbedf3 !important;
+    font-size: 30px;
+    text-shadow: 2px 2px #000;
+  }
+
+  .alienP {
+    font-family: 'Architects Daughter', cursive;
+    line-height: 1.5;
+    font-weight: bold;
+    color: #d0e8f2 !important;
+    text-shadow: 2px 2px #000;
+    font-size: 25px;
+  }
+
+  .alien-footer {
+    margin-top: 50px;
+  }
+
+  /* predators*/
+  html, #predator-squad {
+    position: relative;
+    background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+  }
+
+  #predator-squad::before {
+    content: "";
+    background-image: url("images/pred-re.jpg");
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-position: 1000px;
+    opacity: 0.10;
+  }
+
+  #agif-page {
+    border: 5px solid #03061614;
+  }
+
+  .p-footer {
+    margin-top: 50px;
+  }
+
+  /*FIGHT*/
+  html, #fight-body {
+    background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+    height: 100%;
+    position: relative;
+  }
+
+  #fight-body::before {
+    content: "";
+    background-image: url("images/pred-bg1.jpg");
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    background-size: cover;
+    background-position: top center;
+    opacity: 0.10;
+  }
+
+  .h2-fight {
+    width: 100%;
+    color: #65b1b9;
+    font-size: 40px !important;
+    text-shadow: 2px 2px #000;
+    font-family: 'Anton', sans-serif !important;
+  }
+
+  .fi-footer {
+    position: fixed !important;
+    bottom: 0;
+  }
+
+  .avp10 {
+    padding-top: 100px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  #body {
+    background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+    position: relative;
+  }
+
+  #body::before {
+    content: "";
+    background-image: url("images/pred-bg.jpg");
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-position: top center;
+    opacity: 0.10;
+
+    h3 {
+      color: #a6a6a6 !important;
+      font-size: 35px !important;
+      font-family: 'Anton', sans-serif;
+      text-shadow: 2px 2px #000;
+      margin-top: 10px;
+    }
+
+    h2 {
+      color: #a6a6a6 !important;
+      font-family: 'Chango', cursive !important;
+      margin-top: 100px;
+      padding-bottom: 15px;
+      font-size: 40px !important;
+    }
+
+    .h1-avp {
+      padding-bottom: 100px;
+      color: #a6a6a6;
+      font-size: 40px;
+      font-family: 'Chango', cursive;
+      text-shadow: 2px 2px #000;
+      margin-top: 100px;
+      margin-left: 150px
+    }
+
+    .alien1 {
+      border: 5px solid #1b262c;
+      margin-left: 50px;
+      position: relative;
+      margin-right: 0;
+    }
+
+    .a-button {
+      position: relative;
+      padding-bottom: 750px;
+      padding-right: 200px;
+      text-shadow: 2px 2px #000;
+    }
+
+    .predator1 {
+      margin-bottom: 10px;
+    }
+
+    .carcon {
+      left: 0;
+      height: 0;
+      top: 50%;
+    }
+
+    .car-con2 {
+      height: 0;
+      top: 50%;
+      left: 0;
+    }
+
+    .predatorH2 {
+      margin-top: 50px;
+    }
+
+    .predator1 {
+      width: 45%;
+      border: 5px solid #1b262c;
+      position: relative;
+    }
+
+    .alien {
+      width: 65%;
+      border: 5px solid #222222;
+    }
+
+    .ALIENS {
+      margin-left: 0;
+    }
+
+    .aliensC {
+      margin-top: 100px;
+      margin-left: 1px !important;
+    }
+
+    .a-h3 {
+      line-height: 2.5;
+      font-size: 20px;
+      color: #7d7777 !important;
+      font-family: 'Anton', sans-serif;
+      text-shadow: 2px 2px #000;
+    }
+
+    #more {
+      display: none;
+    }
+
+    .predC {
+      text-align: left;
+      margin-right: 1px !important;
+      padding-left: 30px !important;
+      margin-left: 0 !important;
+    }
+
+    .predator {
+      width: 65%;
+      border: 5px solid #222222;
+      margin-right: 250px;
+    }
+
+    .p-button {
+      text-shadow: 2px 2px #000;
+      position: relative;
+      left: 200px;
+    }
+
+    .predH3 {
+      position: relative;
+      right: 0;
+      padding-top: 30px;
+    }
+
+    .predP {
+      color: #7d7777 !important;
+      font-family: 'Anton', sans-serif;
+      text-shadow: 2px 2px #000;
+      line-height: 2.5;
+      font-size: 20px;
+    }
+
+    .targett {
+      margin-top: 100px;
+      text-align: center;
+    }
+
+    .FIGHT {
+      margin-left: 50px;
+    }
+
+    .aliengif {
+      width: 40%;
+      border: 5px solid #555;
+    }
+
+    .avpfight {
+      right: 150px;
+      bottom: 200px;
+    }
+
+    .predgif {
+      width: 40%;
+      border: 5px solid #555;
+      bottom: 145px !important;
+      left: 50px;
+    }
+
+    .footer {
+      margin-top: 50px;
+    }
+
+    /* aliens HTML */
+    html, #aliens-squad {
+      position: relative;
+      background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+    }
+
+    #aliens-squad::before {
+      content: "";
+      background-image: url("images/alien-re.jpg");
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-size: cover;
+      background-position: top center;
+      opacity: 0.10;
+    }
+
+    .alien-size {
+      border: 5px solid #132f4133;
+      width: 170%;
+    }
+
+    .B-size {
+      width: 100% !important;
+    }
+
+    .A-size {
+      width: 170% !important;
+    }
+
+    .ALIEN1-html {
+      margin-top: 75px;
+      padding-right: 200px !important;
+    }
+
+    .ALIEN3-html {
+      margin-top: 75px;
+      padding-right: 200px !important;
+    }
+
+    .ALIEN2-html {
+      margin-top: 75px;
+    }
+
+    .ALIEN4-html {
+      margin-top: 75px;
+    }
+
+    .aliengif-page {
+      text-align: center;
+      padding-top: 100px;
+      padding-bottom: 10px;
+    }
+
+    #agif-page {
+      border: 5px solid #03061614;
+    }
+
+    .alien-h4 {
+      font-family: 'Lato', sans-serif;
+      margin-top: 35px;
+      margin-bottom: 25px;
+      color: #dbedf3 !important;
+      font-size: 30px;
+      text-shadow: 2px 2px #000;
+    }
+
+    .alienP {
+      font-family: 'Architects Daughter', cursive;
+      line-height: 1.5;
+      font-weight: bold;
+      color: #d0e8f2 !important;
+      text-shadow: 2px 2px #000;
+      font-size: 25px;
+    }
+
+    .alien-footer {
+      margin-top: 50px;
+    }
+
+    /* predators*/
+    html, #predator-squad {
+      position: relative;
+      background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+    }
+
+    #predator-squad::before {
+      content: "";
+      background-image: url("images/pred-re.jpg");
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-size: cover;
+      background-position: 1000px;
+      opacity: 0.10;
+    }
+
+    #agif-page {
+      border: 5px solid #03061614;
+    }
+
+    .p-footer {
+      margin-top: 50px;
+    }
+
+    /*FIGHT*/
+    html, #fight-body {
+      background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+      height: 100%;
+      position: relative;
+    }
+
+    #fight-body::before {
+      content: "";
+      background-image: url("images/pred-bg1.jpg");
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      background-size: cover;
+      background-position: top center;
+      opacity: 0.10;
+    }
+
+    .h2-fight {
+      width: 100%;
+      color: #65b1b9;
+      font-size: 40px !important;
+      text-shadow: 2px 2px #000;
+      font-family: 'Anton', sans-serif !important;
+    }
+
+    .fi-footer {
+      position: fixed !important;
+      bottom: 0;
+    }
+
+    .avp10 {
+      padding-top: 100px;
+    }
+  }
+
+  @media only screen and (min-width: 992px) {
+    h2 {
+      color: #a6a6a6 !important;
+      font-family: 'Chango', cursive !important;
+    }
+
+    .h-4 {
+      padding-top: 10px;
+    }
+
+    h1 {
+      margin-bottom: 50px;
+    }
+
+    h3 {
+      color: #a6a6a6 !important;
+      font-size: 35px !important;
+      font-family: 'Anton', sans-serif;
+      text-shadow: 2px 2px #000;
+    }
+
+    .h1-avp {
+      padding-bottom: 100px;
+      color: #a6a6a6;
+      font-size: 75px;
+      font-family: 'Chango', cursive;
+      text-shadow: 2px 2px #000;
+    }
+
+    .first-hr {
+      border-top: 10px dotted #525252;
+      width: 10%;
+      padding-top: 200px;
+    }
+
+    #more {
+      display: none;
+    }
+
+    .intro-avp {
+      text-align: center;
+      margin-bottom: 200px;
+      margin-top: 100px;
+    }
+
+    #control-1 {
+      height: 720px;
+    }
+
+
+    .aliensC {
+      margin-top: 100px;
+      margin-left: 1px !important;
+    }
+
+    .alien1 {
+      border: 5px solid #1b262c;
+      position: relative;
+    }
+
+    .predH3 {
+      position: relative;
+      right: 380px;
+    }
+
+    .predator1 {
+      margin-top: 10px;
+      border: 5px solid #1b262c;
+      position: relative;
+    }
+
+    .ALIENS {
+      margin-left: 300px;
+      margin-bottom: 200px;
+      position: relative;
+    }
+
+    .a-h3 {
+      line-height: 2.5;
+      font-size: 30px;
+      color: #7d7777 !important;
+      font-family: 'Anton', sans-serif;
+      text-shadow: 2px 2px #000;
+    }
+
+    .alien {
+      text-align: center;
+      margin-bottom: 50px;
+      border: 5px solid #222831;
+    }
+
+    .a-button {
+      margin-bottom: 50px;
+      margin-left: 530px;
+      margin-right: 100px;
+    }
+
+    .carcon {
+      left: 0;
+      height: 0;
+      top: 50%;
+    }
+
+    .car-con2 {
+      height: 0;
+      top: 50%;
+      left: 0;
+    }
+
+    .p-button {
+      position: static;
+      margin-left: 420px;
+      margin-bottom: 630px;
+      text-shadow: 2px 2px #000;
+    }
+
+    .predator {
+      width: 40%;
+      border: 5px solid #222222;
+      margin-right: 250px;
+    }
+
+    .predC {
+      text-align: right;
+      margin-right: 1px !important;
+    }
+
+    .predP {
+      line-height: 2.5;
+      font-size: 30px;
+      color: #7d7777 !important;
+      font-family: 'Anton', sans-serif;
+      text-shadow: 2px 2px #000;
+    }
+
+    .junglePred {
+      right: 300px !important;
+    }
+
+    .predatorH2 {
+      margin-right: 250px;
+      font-family: 'Chango', cursive;
+      text-shadow: 2px 2px #000;
+    }
+
+    .avp {
+      padding-bottom: : 100px;
+      text-align: center;
+      text-shadow: 2px 2px #796f6c;
+    }
+
+    .aliengif {
+      border: 5px solid #555;
+    }
+
+    .predgif {
+      border: 5px solid #555;
+    }
+
+    .avpfight {
+      position: relative;
+    }
+
+    .h4 {
+      margin-top: 100px;
+    }
+
+    .FIGHT {
+      margin-top: 400px;
+      text-align: center;
+    }
+
+    .targett {
+      font-size: 50px;
+      margin-bottom: 100px;
+    }
+
+    .footer {
+      margin-top: 200px;
+    }
+
+    .a-footer {
+      position: relative;
+      text-align: center;
+    }
+
+    .f-footer {
+      position: relative;
+      text-align: center;
+      top: 100px;
+    }
+
+    /* aliens HTML */
+    html, #aliens-squad {
+      position: relative;
+      background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+    }
+
+    #aliens-squad::before {
+      content: "";
+      background-image: url("images/alien-bg.jpg");
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-size: cover;
+      background-position: top center;
+      opacity: 0.10;
+    }
+
+    .alien-size {
+      width: 100%;
+      border: 5px solid #132f41e3;
+    }
+
+    .ALIEN1-html {
+      margin-top: 75px;
+      padding-right: 200px !important;
+    }
+
+    .ALIEN3-html {
+      margin-top: 75px;
+      padding-right: 200px !important;
+    }
+
+    .ALIEN2-html {
+      margin-top: 75px;
+      padding-left: 200px !important;
+    }
+
+    .ALIEN4-html {
+      margin-top: 75px;
+      padding-left: 200px !important;
+    }
+
+    .aliengif-page {
+      text-align: center;
+      padding-top: 100px;
+      padding-bottom: 10px;
+    }
+
+    #agif-page {
+      border: 5px solid #03061614;
+      width: 50%;
+    }
+
+    .alien-h4 {
+      font-family: 'Lato', sans-serif;
+      margin-top: 35px;
+      margin-bottom: 25px;
+      color: #dbedf3 !important;
+      font-size: 30px;
+      text-shadow: 2px 2px #000;
+    }
+
+    .alienP {
+      font-family: 'Architects Daughter', cursive;
+      line-height: 2;
+      font-weight: bold;
+      color: #d0e8f2 !important;
+      font-size: 25px;
+      text-shadow: 2px 2px #000;
+    }
+
+    .alien-footer {
+      margin-top: 50px;
+    }
+
+    /* predators*/
+    html, #predator-squad {
+      position: relative;
+      background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+    }
+
+    #predator-squad::before {
+      content: "";
+      background-image: url("images/pred-bg2.jpg");
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-size: cover;
+      background-position: top center;
+      opacity: 0.10;
+    }
+
+    .p-footer {
+      margin-top: 50px;
+    }
+
+    /*FIGHT*/
+    html, #fight-body {
+      background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+      height: 100%;
+      position: relative;
+    }
+
+    #fight-body::before {
+      content: "";
+      background-image: url("images/pred-bg1.jpg");
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      background-size: cover;
+      background-position: top center;
+      opacity: 0.10;
+    }
+
+    .h2-fight {
+      width: 100%;
+      color: #65b1b9;
+      font-size: 75px;
+      text-shadow: 2px 2px #000;
+      font-family: 'Anton', sans-serif;
+    }
+
+    .fi-footer {
+      position: fixed !important;
+      bottom: 0;
+    }
+  }
+
+  @media only screen and (min-width: 1200px) {
+    #body {
+      background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+      position: relative;
+    }
+
+    #body::before {
+      content: "";
+      background-image: url("images/pred-bg.jpg");
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-size: cover;
+      background-position: top center;
+      opacity: 0.10;
+    }
+
+    h2 {
+      color: #a6a6a6 !important;
+      font-family: 'Chango', cursive !important;
+    }
+
+    .h-4 {
+      padding-top: 10px;
+    }
+
+    h1 {
+      margin-bottom: 50px;
+    }
+
+    h3 {
+      color: #a6a6a6 !important;
+      font-size: 35px !important;
+      font-family: 'Anton', sans-serif;
+      text-shadow: 2px 2px #000;
+    }
+
+    .h1-avp {
+      padding-bottom: 100px;
+      color: #a6a6a6;
+      font-size: 75px;
+      font-family: 'Chango', cursive;
+      text-shadow: 2px 2px #000;
+    }
+
+    .first-hr {
+      border-top: 10px dotted #525252;
+      width: 10%;
+      padding-top: 200px;
+    }
+
+    #more {
+      display: none;
+    }
+
+    .intro-avp {
+      text-align: center;
+      margin-bottom: 200px;
+      margin-top: 100px;
+    }
+
+    #control-1 {
+      width: 1280px;
+      height: 720px;
+    }
+
+
+
+    .aliensC {
+      margin-top: 100px;
+      margin-left: 1px !important;
+    }
+
+    .alien1 {
+      border: 5px solid #1b262c;
+      margin-right: 100px;
+      position: relative;
+    }
+
+    .predH3 {
+
+      font-size: 60px !important;
+    }
+
+    .predator1 {
+      margin-bottom: 10px border: 5px solid #1b262c;
+      position: relative;
+    }
+
+    .ALIENS {
+      margin-left: 300px;
+      margin-bottom: 200px;
+      position: relative;
+    }
+
+    .a-h3 {
+
+      line-height: 2.5;
+      font-size: 30px;
+      color: #7d7777 !important;
+      font-family: 'Anton', sans-serif;
+      text-shadow: 2px 2px #000;
+    }
+
+    .alien {
+      text-align: center;
+      width: 30%;
+      margin-bottom: 50px;
+      border: 5px solid #222831;
+    }
+
+    .a-button {
+      margin-bottom: 50px;
+      margin-left: 530px;
+      margin-right: 100px;
+    }
+
+    .carcon {
+      left: 0;
+      height: 0;
+      top: 50%;
+    }
+
+    .car-con2 {
+      height: 0;
+      top: 50%;
+      left: 0;
+    }
+
+    .p-button {
+      position: static;
+      margin-left: 420px;
+      margin-bottom: 630px;
+      text-shadow: 2px 2px #000;
+    }
+
+    .predator {
+      width: 50%;
+      border: 5px solid #222222;
+      margin-right: 200px;
+    }
+
+    .predC {
+      text-align: right;
+      margin-right: 1px
+    }
+
+    .predP {
+      line-height: 2.5;
+      font-size: 30px;
+      color: #7d7777 !important;
+      font-family: 'Anton', sans-serif;
+      text-shadow: 2px 2px #000;
+      margin-left: 100px;
+    }
+
+
+
+    .predatorH2 {
+      margin-right: 290px;
+      font-family: 'Chango', cursive;
+      text-shadow: 2px 2px #000;
+    }
+
+    .avp {
+      padding-bottom: : 100px;
+      text-align: center;
+      text-shadow: 2px 2px #796f6c;
+    }
+
+    .aliengif {
+      border: 5px solid #555;
+      width: 30%;
+    }
+
+    .predgif {
+      margin-left: 100px;
+      border: 5px solid #555;
+      width: 30%;
+    }
+
+    .avpfight {
+      margin-left: 100px;
+      position: relative;
+    }
+
+    .h4 {
+      margin-top: 100px;
+    }
+
+    .FIGHT {
+
+      text-align: center;
+    }
+
+    .targett {
+      font-size: 50px;
+      margin-bottom: 100px;
+    }
+
+    .footer {
+      margin-top: 200px;
+    }
+
+    .a-footer {
+      position: relative;
+      text-align: center;
+    }
+
+    .f-footer {
+      position: relative;
+      text-align: center;
+      top: 100px;
+    }
+
+    /* aliens HTML */
+    html, #aliens-squad {
+      position: relative;
+      background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+    }
+
+    #aliens-squad::before {
+      content: "";
+      background-image: url("images/alien-bg.jpg");
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-size: cover;
+      background-position: top center;
+      opacity: 0.10;
+    }
+
+    .alien-size {
+
+      border: 5px solid #132f41e3;
+    }
+
+    .ALIEN1-html {
+      margin-top: 75px;
+      padding-right: 200px !important;
+    }
+
+    .ALIEN3-html {
+      margin-top: 75px;
+      padding-right: 200px !important;
+    }
+
+    .ALIEN2-html {
+      margin-top: 75px;
+      padding-left: 200px !important;
+    }
+
+    .ALIEN4-html {
+      margin-top: 75px;
+      padding-left: 200px !important;
+    }
+
+    .aliengif-page {
+      text-align: center;
+      padding-top: 100px;
+      padding-bottom: 10px;
+    }
+
+    #agif-page {
+      border: 5px solid #03061614;
+    }
+
+    .alien-h4 {
+      font-family: 'Lato', sans-serif;
+      margin-top: 35px;
+      margin-bottom: 25px;
+      color: #dbedf3 !important;
+      font-size: 30px;
+      text-shadow: 2px 2px #000;
+    }
+
+    .alienP {
+      font-family: 'Architects Daughter', cursive;
+      line-height: 2;
+      font-weight: bold;
+      color: #d0e8f2 !important;
+      font-size: 20px;
+      text-shadow: 2px 2px #000;
+    }
+
+    .alien-footer {
+      margin-top: 50px;
+    }
+
+    /* predators*/
+    html, #predator-squad {
+      position: relative;
+      background-image: linear-gradient(to right, #010101, #1b262c, #232931, #010101);
+    }
+
+    #predator-squad::before {
+      content: "";
+      background-image: url("images/pred-bg2.jpg");
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-size: cover;
+      background-position: top center;
+      opacity: 0.10;
+    }
+
+    .p-footer {
+      margin-top: 50px;
+    }
+
+    /*FIGHT*/
+
+.FSA{margin-top: -200px;}
+
+     .aliengif{
+       width: 20%;
+     }
+
+     .predgif{width: 20%;}
+
+    .h2-fight {
+      width: 100%;
+      color: #65b1b9;
+      font-size: 75px !important;
+      text-shadow: 2px 2px #000;
+      font-family: 'Anton', sans-serif;
+    }
+
+    .fi-footer {
+      position: fixed !important;
+      bottom: 0;
+    }
+  }
